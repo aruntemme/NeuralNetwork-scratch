@@ -10,7 +10,7 @@ Building Neural Network from scratch using Numpy &amp; Python
   <img src="images/nn.webp" width="550px">
 </p>
 
-## Setup 
+## Setup & Run
 
 ```bash
 git clone <url>

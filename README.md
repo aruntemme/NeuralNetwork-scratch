@@ -1,4 +1,5 @@
 # NeuralNetwork-scratch
+
 Building Neural Network from scratch using Numpy &amp; Python
 
 
@@ -50,4 +51,4 @@ A loss function, or cost function, tells us “how good” the model is at makin
 
 ## References 
 
-(Neural Networks from Scratch book)[https://nnfs.io]
+[Neural Networks from Scratch book](https://nnfs.io)
